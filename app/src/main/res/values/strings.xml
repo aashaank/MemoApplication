@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MemoApplication</string>
+    <string name="action_search">Search</string>
+    <string name="create_memo_title">Enter New Memo</string>
+    <string name="create_memo_description">Enter a Tag , followed by content...</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="search_memo_title">Search In Memo</string>
+    <string name="search_memo_description">Enter the Tag to be searched...</string>
+    <string name="searched_tag_is">Searched Tag : </string>
+    <string name="contains_content"> contains content : </string>
+    <string name="searched_tag_not_present">Searched Tag does not exists!!</string>
+
+</resources>

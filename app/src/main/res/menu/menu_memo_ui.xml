@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.aashankpratap.memoapplication.MemoUI">
+    <item
+        android:id="@+id/search_action"
+        android:orderInCategory="100"
+        android:title="@string/action_search"
+        android:icon="@drawable/search_icon"
+        app:showAsAction="ifRoom" />
+</menu>
